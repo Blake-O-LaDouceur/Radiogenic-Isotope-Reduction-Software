@@ -5,4 +5,4 @@
 - This tool was developed by Paul A. Mueller Ph.D. at the University Of Florida Dept. of Geological Sciences for use in the GeoPlasma Lab by visiting and departmental researchers operating the NuPlasma spectrometer at the university. 
 - The sheet is highly functioned, so changes made to any formula cell could corrupt results. Only experienced geochronological researchers should operate this sheet, or be supervised by an experienced party. 
 
-#Isotopia 4.5
+# Isotopia 4.5
